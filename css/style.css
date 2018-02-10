@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+}
+#gallary{
+    border: 0px solid red;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+}
+#gallary .col-md-6{
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+}
+ul li {
+    list-style: none;
+}
+.contact .col-sm-3{
+    background-color: rgb(141, 177, 219);
+}
+.logo{
+    height: 150px;
+}
+img:hover{
+    opacity: .6;
+}
